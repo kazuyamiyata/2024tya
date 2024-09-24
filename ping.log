@@ -5734,3 +5734,10 @@
  09/24 15:43:06, alive, 5 packets transmitted, 5 received, 0% packet loss, time 4006ms
  09/24 15:44:06, alive, 5 packets transmitted, 5 received, 0% packet loss, time 4006ms
  09/24 15:45:06, alive, 5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+ 09/24 15:46:06, alive, 5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+ 09/24 15:47:06, alive, 5 packets transmitted, 5 received, 0% packet loss, time 4008ms
+ 09/24 15:48:06, alive, 5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+ 09/24 15:49:06, alive, 5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+ 09/24 15:50:07, alive, 5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+ 09/24 15:51:06, dead, 5 packets transmitted, 0 received, 100% packet loss, time 4101ms
+ 09/24 15:52:06, alive, 5 packets transmitted, 5 received, 0% packet loss, time 4006ms
