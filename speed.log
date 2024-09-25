@@ -1,0 +1,6 @@
+Timestamp,Download_Mbps,Upload_Mbps,Ping(Idle)_Latency_ms,Ping(Idle)_Jitter_ms,Packet_Loss,Server_Name,Server_Location,Download_Latency_ms,Upload_Latency_ms,Result_URL
+"2024-09-25T06:24:39Z",88.300496,34.481776,23.631,3.432,0,"IPA CyberLab","Bunkyo",63.443,32.658,"https://www.speedtest.net/result/c/1f846d41-d7e0-41d9-bf6f-967227dc4aa3"
+"2024-09-25T06:30:30Z",86.30636,23.972696,27.767,67.98,0,"IPA CyberLab","Bunkyo",40.137,32.199,"https://www.speedtest.net/result/c/0632a92b-7435-477a-83a6-1910649916af"
+"2024-09-25T06:40:33Z",63.784568,18.865984,59.07,0.944,0,"IPA CyberLab","Bunkyo",44.817,37.259,"https://www.speedtest.net/result/c/24a00574-7fbd-4ab2-9740-ab8b44e97926"
+"2024-09-25T06:50:28Z",72.658512,32.067976,38.668,13.146,0,"IPA CyberLab","Bunkyo",59.554,35.575,"https://www.speedtest.net/result/c/9e091495-77c6-4e68-8926-ab64a1df8741"
+"2024-09-25T07:00:27Z",61.55764,34.9038,40.226,8.403,0,"IPA CyberLab","Bunkyo",39.732,41.679,"https://www.speedtest.net/result/c/5163b832-cb77-4785-bee3-4987ef541289"
