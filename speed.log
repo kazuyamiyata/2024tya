@@ -2088,3 +2088,13 @@ Timestamp,Download_Mbps,Upload_Mbps,Ping(Idle)_Latency_ms,Ping(Idle)_Jitter_ms,P
 "10/13 13:10:24",31.077888,39.91684,46.695,7.854,0,"IPA CyberLab","Bunkyo",56.358,38.83,"https://www.speedtest.net/result/c/bfc1b421-d690-4aa5-badf-aa1bceb049e6"
 "10/13 13:40:49",38.07892,18.054712,41.341,7.795,31.666666666666668,"IPA CyberLab","Bunkyo",94.155,70.214,
 "10/13 13:50:25",58.017064,27.193016,49.392,4.048,0,"IPA CyberLab","Bunkyo",127.771,58.973,"https://www.speedtest.net/result/c/a8a3f5b2-e895-4324-a52a-59dbde772cba"
+"10/13 14:20:36",49.207112,35.02312,50.504,11.745,0.3333333333333333,"IPA CyberLab","Bunkyo",96.849,42.445,"https://www.speedtest.net/result/c/2141e498-ed58-4ead-b4ba-36d7f651c7f4"
+"10/13 14:30:32",58.105112,38.21528,39.62,6.448,13.197969543147208,"IPA CyberLab","Bunkyo",120.297,59.03,"https://www.speedtest.net/result/c/56dd5745-777c-48b3-a3a3-459ebfe9315a"
+"10/13 14:40:25",41.078632,24.830736,57.077,11.543,0,"IPA CyberLab","Bunkyo",84.285,61.218,"https://www.speedtest.net/result/c/fa845fa7-9f71-4b09-9fed-904a1ad50157"
+"10/13 14:50:29",54.478456,22.0504,44.248,5.325,0.3333333333333333,"IPA CyberLab","Bunkyo",73.371,43.708,"https://www.speedtest.net/result/c/68c7535f-b418-4c17-bcd5-366dd84477f0"
+"10/13 15:00:31",38.514408,33.303624,44.627,5.171,36.8421052631579,"IPA CyberLab","Bunkyo",63.781,94.12,"https://www.speedtest.net/result/c/29193969-747b-492e-afd6-9e8b9d2d5440"
+"10/13 15:10:24",40.95908,45.997888,39.927,4.477,0,"IPA CyberLab","Bunkyo",71.903,60.475,"https://www.speedtest.net/result/c/d609481f-fa62-4e4c-93cf-23417bfc117b"
+"10/13 15:20:25",44.528512,18.245216,59.003,18.09,0,"IPA CyberLab","Bunkyo",85.057,78,"https://www.speedtest.net/result/c/027b8395-3cae-41f0-bd85-13d12365e3d9"
+"10/13 15:30:16",46.489608,31.325208,39.98,3.467,0,"IPA CyberLab","Bunkyo",83.469,73.868,"https://www.speedtest.net/result/c/2c43548c-0819-4f5d-9b09-e7071cadd9af"
+"10/13 15:40:27",58.958368,50.027056,48.312,12.642,0,"IPA CyberLab","Bunkyo",109.936,54.662,"https://www.speedtest.net/result/c/841013b4-478b-4ad0-862d-16c3b3e694c9"
+"10/13 15:50:22",50.54732,36.197136,41.457,3.179,0.5434782608695652,"IPA CyberLab","Bunkyo",79.977,49.517,"https://www.speedtest.net/result/c/f45f83d3-25db-42c9-9138-8ea77bfe5d30"
