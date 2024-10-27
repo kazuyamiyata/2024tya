@@ -3560,3 +3560,7 @@ Timestamp,Download_Mbps,Upload_Mbps,Ping(Idle)_Latency_ms,Ping(Idle)_Jitter_ms,P
 "10/27 17:40:24",43.923688,9.14636,21.855,1.45,0,"IPA CyberLab","Bunkyo",340.213,39.652,"https://www.speedtest.net/result/c/6285b5d5-d7bc-4929-98b3-f7cfa79e5ae5"
 "10/27 17:50:21",43.477032,37.565376,27.438,2.833,0,"IPA CyberLab","Bunkyo",182.476,41.018,"https://www.speedtest.net/result/c/cad842b8-7b6e-466d-9edf-bf5b5d6b133d"
 "10/27 18:00:28",42.066344,22.834584,25.084,3.231,0.5952380952380952,"IPA CyberLab","Bunkyo",171.995,32.607,"https://www.speedtest.net/result/c/bcff9e0b-04b3-4b29-9801-7714b8279a9a"
+"10/27 18:10:24",42.714088,18.941328,37.029,9.599,0,"IPA CyberLab","Bunkyo",315.783,28.113,"https://www.speedtest.net/result/c/daa641c4-c506-48c0-b66c-43e9ffb999d8"
+"10/27 18:20:21",44.718408,19.88408,41.141,4.005,0.43478260869565216,"IPA CyberLab","Bunkyo",791.678,39.367,"https://www.speedtest.net/result/c/d8976ccf-7096-492d-bdd9-0f6618092208"
+"10/27 18:30:24",41.474576,22.719368,32.008,0.841,26.5625,"IPA CyberLab","Bunkyo",377.026,42.882,"https://www.speedtest.net/result/c/05c47442-27fd-46f6-b425-eb88900cb995"
+"10/27 18:40:31",38.601664,37.990776,24.014,2.91,0,"IPA CyberLab","Bunkyo",180.442,41.428,"https://www.speedtest.net/result/c/da680682-284b-4062-aa39-d065a7ada458"
