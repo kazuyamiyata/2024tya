@@ -1,1 +1,2 @@
 Timestamp,Download_Mbps,Upload_Mbps,Ping(Idle)_Latency_ms,Ping(Idle)_Jitter_ms,Packet_Loss,Server_Name,Server_Location,Download_Latency_ms,Upload_Latency_ms,Result_URL
+"11/06 14:24:31",197.338256,40.36908,30.765,6.636,0,"IPA CyberLab","Bunkyo",42.15,32.768,"https://www.speedtest.net/result/c/825511d5-328e-4dcb-a130-1568612eece0"
