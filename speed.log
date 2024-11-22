@@ -2248,3 +2248,12 @@ Timestamp,Download_Mbps,Upload_Mbps,Ping(Idle)_Latency_ms,Ping(Idle)_Jitter_ms,P
 "11/22 11:40:37",84.206472,29.336752,112.305,57.111,0,"IPA CyberLab","Bunkyo",45.787,50.422,"https://www.speedtest.net/result/c/717b2f29-0e02-4dbc-9fbf-820805d77b6d"
 "11/22 11:50:25",222.93244,16.650688,30.084,10.051,0,"IPA CyberLab","Bunkyo",77.199,33.877,"https://www.speedtest.net/result/c/2200c826-0578-4840-93a2-448ded822be7"
 "11/22 12:00:37",170.403072,43.620544,28.502,7.472,68.43853820598007,"IPA CyberLab","Bunkyo",35.551,24.96,"https://www.speedtest.net/result/c/286f5b05-0744-46ff-902c-c1b87210cf13"
+"11/22 12:20:22",190.525312,58.018792,42.202,7.346,0,"IPA CyberLab","Bunkyo",119.158,36.121,"https://www.speedtest.net/result/c/d43c56bb-81dc-4115-b882-2a055d734ede"
+"11/22 12:30:28",204.095592,20.015336,39.979,0.076,0,"IPA CyberLab","Bunkyo",112.424,32.193,"https://www.speedtest.net/result/c/d9985e8f-f871-431d-9dec-f86ca83c43be"
+"11/22 12:40:37",130.255144,44.033064,89.724,3.495,3.6666666666666665,"IPA CyberLab","Bunkyo",485.897,45.452,"https://www.speedtest.net/result/c/9fa731e4-1d96-456e-a3b8-76e07fa1c775"
+"11/22 12:50:36",44.809712,47.985872,37.064,14.803,0,"IPA CyberLab","Bunkyo",43.314,40.731,"https://www.speedtest.net/result/c/345dc079-abeb-43ba-9112-8e24fd5042b0"
+"11/22 13:00:23",128.959256,17.535328,41.855,4.998,19.78021978021978,"IPA CyberLab","Bunkyo",61.46,105.212,"https://www.speedtest.net/result/c/a8aeb0f1-a8d1-41cb-8492-e04db25f7922"
+"11/22 13:10:36",117.286032,22.518352,33.336,4.53,0.6666666666666666,"IPA CyberLab","Bunkyo",58.582,37.721,"https://www.speedtest.net/result/c/0ad4c445-8146-4a46-b7f6-80c2b7f821fd"
+"11/22 13:20:50",78.80752,41.085088,66.498,25.258,0,"IPA CyberLab","Bunkyo",47.583,36.483,
+"11/22 13:30:34",139.779856,29.60472,40.696,8.678,0,"IPA CyberLab","Bunkyo",56.129,36.329,"https://www.speedtest.net/result/c/5fcddeb4-acca-4cdb-9c2b-10b23483c2c7"
+"11/22 14:00:36",86.568904,36.11856,35.864,7.099,11,"IPA CyberLab","Bunkyo",39.571,51.656,"https://www.speedtest.net/result/c/c4375c65-1e7d-4d4b-b923-4eb192422668"
