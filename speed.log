@@ -3163,3 +3163,4 @@ Timestamp,Download_Mbps,Upload_Mbps,Ping(Idle)_Latency_ms,Ping(Idle)_Jitter_ms,P
 "12/04 10:10:28",51.657816,21.942344,41.827,9.568,0.33444816053511706,"IPA CyberLab","Bunkyo",72.295,29.573,"https://www.speedtest.net/result/c/5fecb0c3-d410-4dcb-b617-641ddeab73fb"
 "12/04 10:20:29",61.947432,11.530008,31.531,6.947,0,"IPA CyberLab","Bunkyo",385.596,58.072,"https://www.speedtest.net/result/c/b28c0ca0-be8b-4ab1-8eae-6e4f6909fd3d"
 "12/04 10:30:26",58.132664,35.092384,45.953,122.651,0,"IPA CyberLab","Bunkyo",101.928,47.411,"https://www.speedtest.net/result/c/b0d00b05-881c-4bbc-8d46-3cf49a5ad3fc"
+"12/04 14:20:27",45.071624,51.5374,42.034,11.931,15,"IPA CyberLab","Bunkyo",153.113,45.003,"https://www.speedtest.net/result/c/925d7152-a580-4314-b7a4-70c05aeb7ec2"
